@@ -11,7 +11,7 @@ A Streamlit app to visualize your own spending. Upload your bank’s CSV and ins
 
 1. **Clone**:
    ```bash
-   git clone https://github.com/yourusername/expense_tracker.git
+   git clone https://github.com/codedbydawn/Personal-Expense-Tracker-Dashboard.git
    cd expense_tracker
 
 2. **Install dependencies**:
