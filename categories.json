@@ -1,0 +1,10 @@
+{
+    "Groceries":      ["supermarket","grocery","market"],
+    "Dining":         ["restaurant","cafe","diner","eatery"],
+    "Transport":      ["uber","lyft","taxi","bus","metro","train","fuel"],
+    "Utilities":      ["electric","water","gas","internet","utility"],
+    "Entertainment":  ["netflix","spotify","movie","concert","theater"],
+    "Rent":           ["rent","landlord"],
+    "Income":         ["deposit","salary","payroll","transfer"]
+  }
+  
